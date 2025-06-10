@@ -120,8 +120,6 @@ If you'd like to add your information to this repository:
 3. **Add** your GitHub username and contact information
 4. **Submit** a pull request
 
-## 📝 License
 
----
 
 <p align="center">Made with ❤️ by all contributors</p>
